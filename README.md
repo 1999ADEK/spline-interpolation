@@ -6,8 +6,8 @@ This project discusses how we can use spline interpolation to outline an object 
 ---
 ### Plot an Object of Your Interest
 Note that you can also plot the contour of an object of your interest.  
-Running get_points.py in the command line and typing the filename of your choice, you will enter an interface that looks like  
-![ginput interface]()  
+Running get_points.py in the command line and typing the filename of your choice, you will enter an interface that looks like   
+<img src="ginput.png" alt="ginput interface" width="400" height="300">  
 * Click left mouse button to add points.
 * Click right mouse button to remove the most recently added points.  
 * Press esc to stop input.  
